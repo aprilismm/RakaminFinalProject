@@ -1,1 +1,3 @@
-# RakaminFinalProject
+# Final Task ID/X Partners - Data Scientist
+
+Tujuan proyek ini adalah mengembangkan model machine learning guna memprediksi risiko gagal bayar pinjaman dengan memanfaatkan data historis peminjam. Dataset mencakup berbagai informasi pinjaman, termasuk besaran pinjaman, suku bunga, tujuan pinjaman, dan riwayat pembayaran dari tahun 2007 hingga 2014. Proses analisis meliputi beberapa tahapan: Data Understanding, Exploratory Data Analysis (EDA), Data Preparation, dan Data Modeling menggunakan Logistic Regression dan XGBoost. Output akhirnya adalah model klasifikasi biner yang dapat mendeteksi pinjaman berisiko tinggi sekaligus memberikan informasi lanjut untuk mendukung keputusan bisnis yang lebih baik.
